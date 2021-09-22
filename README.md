@@ -1,7 +1,7 @@
 # PyBer Analysis
 
 ## Overview of the analysis
-There is need to deeply understand the ride-sharing data for Urban, Suburban and Rural cities. Understanding the differences in ride sharing data among various city type will help the strategize Pyber's future ultimately benefitting the bottom line. 
+There is need to deeply understand the ride-sharing data for Urban, Suburban and Rural cities. Understanding the differences in ride sharing data among various city type will help Pyber develop business strategies to improve operations ultimately benefitting the bottom line. 
   
 ## Results:
 Below are summary of results. 
@@ -18,15 +18,15 @@ Below are summary of results.
 
 **Total fares by city**
 ![myimage-alt-tag](/analysis/PyBer_fare_summary.png)
-* Rural cities generated the lowest total fares and Urban cities generate significantly higher fare than rural cities. 
+* Rural cities generated the lowest total fares and Urban cities generated significantly higher fare than rural cities. 
 * Suburban cities total fares is higher than rural cities but lower than urban cities.  
 
  ## Summary:
 
-The Urban cities have more drivers than the demand for rides and are generation lowest average fare per ride. This is impacting the average fare per driver and the drivers are potentially are staying ideal most of the time. It is recommended to take following actions: 
+The Urban cities have more drivers than the demand for rides and are generating lowest average fare per ride. This is impacting the average fare per driver and the drivers are potentially staying ideal most of the time. It is recommended to take following actions: 
 
 1) Reduce the number of drivers in urban areas to the ratio of 1.6 rides per drivers as in rural areas. This will potentially improve average fare per driver. 
 
 2) Increase the demand for rides my running promotions in urban areas to increase the revenue per ride. 
 
-3) While total fare generated in rural cities is the lowest, the average revenue per ride is highest. It is highly recommend to visit rural cities to further understand the driving factors and mimic the best practices in the urban and suburban cities. 
+3) While total fare generated in rural cities is the lowest, the average revenue per ride is highest. It is highly recommended to collect additional data such as total distance per ride and total time per ride for each city to calculate and compare average fare per mile and avarage fare per minute for each city type. This will validate whether rural cities are truly generating more average fare per mile. 
