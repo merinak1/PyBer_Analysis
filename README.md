@@ -1,7 +1,7 @@
 # PyBer Analysis
 
 ## Overview of the analysis
-There is need to deeply understand the ride-sharing data for Urban, Suburban and Rural cities. Understanding the differences in ride sharing data among various city type will help Pyber develop business strategies to improve operations ultimately benefitting the bottom line. 
+There is need to deeply understand the ride-sharing data for Urban, Suburban and Rural cities. Understanding the differences in ride sharing data among various city type will help PyBer develop business strategies to improve operations ultimately benefitting the bottom line. 
   
 ## Results:
 Below are summary of results. 
